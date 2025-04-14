@@ -27,6 +27,7 @@ export default function SignUp() {
               username,
               password
             });
+            console.log(username);
           }}
           className='bg-blue-500 px-2 ml-2'
           type='button'
